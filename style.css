@@ -1,0 +1,19 @@
+.ui.borderless.topmenu.menu{
+  background-color: #024731;
+  box-shadow: none;
+  border: none;
+  height: 75px;
+}
+
+.ui.borderless.middlemenu.menu{
+  box-shadow: none;
+  border: none;
+}
+
+h1.ui.header {
+  color: #024731;
+}
+
+h2.ui.header {
+  color: #0081cc;
+}
